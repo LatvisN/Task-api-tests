@@ -15,6 +15,7 @@ target/
 *.ipr
 .idea/
 *.jar
+*.zip
 
 ### Eclipse ###
 .apt_generated
