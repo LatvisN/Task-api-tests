@@ -13,7 +13,6 @@ target/
 *.iws
 *.ipr
 .idea/
-*.jar
 *.zip
 
 ### Eclipse ###
